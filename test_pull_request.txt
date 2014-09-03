@@ -2,3 +2,5 @@ test
 1. use 'fix #xxx' will close issue automatically, no new issue will be created.
 
 2. use 'refs' won't close the issue, need create pull request manually, but new pull request will create a new issue.
+
+3. one branch seems can be created only one pull request if using 'hub pull request'
